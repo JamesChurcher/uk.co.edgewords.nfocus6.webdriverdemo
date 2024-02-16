@@ -12,6 +12,7 @@ namespace uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests
 {
     internal class DemoTests : BaseTest
     {
+        //A comment
         [Test, Category("Demo")]
         public void TraditionalTest()
         {
