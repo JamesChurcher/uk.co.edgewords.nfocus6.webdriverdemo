@@ -1,0 +1,101 @@
+<test-run id="2" duration="80.588606" testcasecount="9" total="9" passed="7" failed="2" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:28Z" end-time="2024-02-15T 12:05:50Z">
+  <test-suite type="Assembly" name="uk.co.edgewords.nfocus6.webdriverdemo.dll" fullname="C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\bin\Debug\net6.0\uk.co.edgewords.nfocus6.webdriverdemo.dll" total="9" passed="7" failed="2" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.588606">
+    <test-suite type="TestSuite" name="uk" fullname="uk" total="2" passed="1" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.023666">
+      <test-suite type="TestSuite" name="co" fullname="uk.co" total="2" passed="1" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.023666">
+        <test-suite type="TestSuite" name="edgewords" fullname="uk.co.edgewords" total="2" passed="1" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.023666">
+          <test-suite type="TestSuite" name="nfocus6" fullname="uk.co.edgewords.nfocus6" total="2" passed="1" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.023666">
+            <test-suite type="TestSuite" name="webdriverdemo" fullname="uk.co.edgewords.nfocus6.webdriverdemo" total="2" passed="1" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.023666">
+              <test-suite type="TestFixture" name="Tests" fullname="uk.co.edgewords.nfocus6.webdriverdemo.Tests" classname="uk.co.edgewords.nfocus6.webdriverdemo.Tests" total="2" passed="1" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.023666">
+                <test-case name="Test1" fullname="uk.co.edgewords.nfocus6.webdriverdemo.Tests.Test1" methodname="Test1" classname="Tests" result="Passed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.019403" asserts="0" seed="1951721320" />
+                <test-case name="Test2" fullname="uk.co.edgewords.nfocus6.webdriverdemo.Tests.Test2" methodname="Test2" classname="Tests" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:29Z" duration="0.004263" asserts="0" seed="1644704886">
+                  <properties>
+                    <property name="Category" value="BadTest" />
+                  </properties>
+                  <failure>
+                    <message />
+                    <stack-trace>   at uk.co.edgewords.nfocus6.webdriverdemo.Tests.Test2() in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\UnitTest1.cs:line 19
+
+1)    at uk.co.edgewords.nfocus6.webdriverdemo.Tests.Test2() in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\UnitTest1.cs:line 19
+
+</stack-trace>
+                  </failure>
+                </test-case>
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <test-suite type="TestSuite" name="uk" fullname="uk" total="7" passed="6" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.56494">
+      <test-suite type="TestSuite" name="co" fullname="uk.co" total="7" passed="6" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.56494">
+        <test-suite type="TestSuite" name="edgewords" fullname="uk.co.edgewords" total="7" passed="6" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.56494">
+          <test-suite type="TestSuite" name="nfocus6" fullname="uk.co.edgewords.nfocus6" total="7" passed="6" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.56494">
+            <test-suite type="TestSuite" name="webdriverdemo" fullname="uk.co.edgewords.nfocus6.webdriverdemo" total="7" passed="6" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.56494">
+              <test-suite type="TestSuite" name="WebDriverTests" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests" total="7" passed="6" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:05:50Z" duration="80.56494">
+                <test-suite type="TestFixture" name="FormsDemoTest" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.FormsDemoTest" classname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.FormsDemoTest" total="1" passed="0" failed="1" inconclusive="0" skipped="0" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:40Z" duration="10.719346">
+                  <test-case name="formsDemo" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.FormsDemoTest.formsDemo" methodname="formsDemo" classname="FormsDemoTest" result="Failed" start-time="2024-02-15T 12:04:29Z" end-time="2024-02-15T 12:04:40Z" duration="10.719346" asserts="0" seed="1852943413">
+                    <output><![CDATA[Element was not there but dont crash
+OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#NOSUCHELEMENT"}
+  (Session info: MicrosoftEdge=121.0.2277.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.FormsDemoTest.formsDemo() in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\WebDriverTests\FormsDemoTest.cs:line 115
+Collection was empty - expected element not found
+
+]]></output>
+                    <failure>
+                      <message>  Assert.That(driver.FindElement(By.Id("textInputValue")).Text, Is.EqualTo("Stephen"))
+  Expected string length 7 but was 5. Strings differ at index 3.
+  Expected: "Stephen"
+  But was:  "Steve"
+  --------------^
+</message>
+                      <stack-trace>   at uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.FormsDemoTest.formsDemo() in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\WebDriverTests\FormsDemoTest.cs:line 98
+
+1)    at uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.FormsDemoTest.formsDemo() in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\WebDriverTests\FormsDemoTest.cs:line 98
+
+</stack-trace>
+                    </failure>
+                  </test-case>
+                </test-suite>
+                <test-suite type="TestFixture" name="HelloWebDriver" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.HelloWebDriver" classname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.HelloWebDriver" total="3" passed="3" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2024-02-15T 12:04:40Z" end-time="2024-02-15T 12:05:10Z" duration="30.514505">
+                  <test-case name="CustomWaitDemoTest" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.HelloWebDriver.CustomWaitDemoTest" methodname="CustomWaitDemoTest" classname="HelloWebDriver" result="Passed" start-time="2024-02-15T 12:04:40Z" end-time="2024-02-15T 12:04:51Z" duration="10.924812" asserts="0" seed="1928942340">
+                    <output><![CDATA[Start test
+
+]]></output>
+                  </test-case>
+                  <test-case name="DragDropDemo" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.HelloWebDriver.DragDropDemo" methodname="DragDropDemo" classname="HelloWebDriver" result="Passed" start-time="2024-02-15T 12:04:51Z" end-time="2024-02-15T 12:05:02Z" duration="11.613339" asserts="0" seed="337251910" />
+                  <test-case name="FirstTest" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.HelloWebDriver.FirstTest" methodname="FirstTest" classname="HelloWebDriver" result="Passed" start-time="2024-02-15T 12:05:02Z" end-time="2024-02-15T 12:05:10Z" duration="7.976354" asserts="0" seed="1062694311">
+                    <output><![CDATA[Start test
+Should be on Login page. Heading text is: Access and Authentication
+The typed username text is 
+The typed text is actually : edgewords
+Finish test
+
+]]></output>
+                  </test-case>
+                </test-suite>
+                <test-suite type="TestFixture" name="ProductSearch" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.ProductSearch" classname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.ProductSearch" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2024-02-15T 12:05:10Z" end-time="2024-02-15T 12:05:18Z" duration="7.335578">
+                  <test-case name="SearchItem" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.ProductSearch.SearchItem" methodname="SearchItem" classname="ProductSearch" result="Passed" start-time="2024-02-15T 12:05:10Z" end-time="2024-02-15T 12:05:18Z" duration="7.335578" asserts="0" seed="1596683856">
+                    <output><![CDATA[Test completed
+
+]]></output>
+                  </test-case>
+                </test-suite>
+                <test-suite type="TestFixture" name="SeleniumManagerTests" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.SeleniumManagerTests" classname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.SeleniumManagerTests" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2024-02-15T 12:05:18Z" end-time="2024-02-15T 12:05:50Z" duration="31.995511">
+                  <test-case name="CrDebugTest" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.SeleniumManagerTests.CrDebugTest" methodname="CrDebugTest" classname="SeleniumManagerTests" result="Passed" start-time="2024-02-15T 12:05:18Z" end-time="2024-02-15T 12:05:31Z" duration="13.010894" asserts="0" seed="888214699" />
+                  <test-case name="FxDebugTest" fullname="uk.co.edgewords.nfocus6.webdriverdemo.WebDriverTests.SeleniumManagerTests.FxDebugTest" methodname="FxDebugTest" classname="SeleniumManagerTests" result="Passed" start-time="2024-02-15T 12:05:31Z" end-time="2024-02-15T 12:05:50Z" duration="18.984617" asserts="0" seed="1067225879" />
+                </test-suite>
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>

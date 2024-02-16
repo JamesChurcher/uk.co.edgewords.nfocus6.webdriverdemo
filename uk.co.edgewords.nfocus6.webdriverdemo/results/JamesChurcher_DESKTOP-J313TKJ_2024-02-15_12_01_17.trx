@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="4ff5a36f-1db6-4b17-9dcf-86fba8e99dfe" name="JamesChurcher@DESKTOP-J313TKJ 2024-02-15 12:01:17" runUser="AzureAD\JamesChurcher" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-02-15T12:01:17.6918779+00:00" queuing="2024-02-15T12:01:17.6918782+00:00" start="2024-02-15T12:01:16.9596159+00:00" finish="2024-02-15T12:01:17.6920843+00:00" />
+  <TestSettings name="default" id="2eb315a8-6fc2-4e59-9ff9-c1eebc46babb">
+    <Deployment runDeploymentRoot="JamesChurcher_DESKTOP-J313TKJ_2024-02-15_12_01_17" />
+  </TestSettings>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="0" executed="0" passed="0" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 4.5.0.0: Test execution started&#xD;
+Running selected tests in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\bin\Debug\net6.0\uk.co.edgewords.nfocus6.webdriverdemo.dll&#xD;
+   NUnit3TestExecutor discovered 0 of 0 NUnit test cases using Current Discovery mode, Explicit run&#xD;
+NUnit Adapter 4.5.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="DESKTOP-J313TKJ" outcome="Warning" timestamp="2024-02-15T12:01:17.4980588+00:00">
+        <Text>No test matches the given testcase filter `TestCategory=Smoke` in C:\Users\JamesChurcher\source\repos\uk.co.edgewords.nfocus6.webdriverdemo\uk.co.edgewords.nfocus6.webdriverdemo\bin\Debug\net6.0\uk.co.edgewords.nfocus6.webdriverdemo.dll</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
